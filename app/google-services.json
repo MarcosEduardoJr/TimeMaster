@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "491274570506",
+    "project_id": "timemaster-f93e6",
+    "storage_bucket": "timemaster-f93e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491274570506:android:71216c6e7b21a89d1508f3",
+        "android_client_info": {
+          "package_name": "com.droidmaster.timemaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491274570506-66v387ckl205dle5ah0i4h4gmbva1qka.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidmaster.timemaster",
+            "certificate_hash": "acf58d6653ba5011be0b4094293e43d3f8afd6a2"
+          }
+        },
+        {
+          "client_id": "491274570506-mourat4gko939a01sr8jaffe869vspq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidmaster.timemaster",
+            "certificate_hash": "4f7aa00907fdce8b17f87d27d5efaecf97b70958"
+          }
+        },
+        {
+          "client_id": "491274570506-qlp82l3ajtcb5nie7hag2lof6esd5qar.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidmaster.timemaster",
+            "certificate_hash": "cc66b30a9e9c4aa2964e0b3bf9449a5c6c5139c5"
+          }
+        },
+        {
+          "client_id": "491274570506-hllf160aok47ita79ssjiihq27l95h5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0_olgG14wUHPSPSNfbsB-t_npRyS2ygc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491274570506-hllf160aok47ita79ssjiihq27l95h5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

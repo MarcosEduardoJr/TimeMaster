@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">TimeMaster</string>
+    <string name="title_home">Início</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- Checkout activity -->
+    <string name="title_activity_payment">PaymentActivity</string>
+    <string name="checkout_item_description">Description</string>
+    <string name="googlepay_status_unavailable" translatable="false">Unfortunately, Google Pay is
+        not available on this phone.
+    </string>
+    <string name="payments_show_name" translatable="false">Successfully received payment data for
+        %s!
+    </string>
+    <string name="login">Entrar</string>
+    <string name="title_card">Cartão</string>
+    <string name="empty_timer_00_00_00">00-00-00</string>
+    <string name="start">Começar</string>
+</resources>
